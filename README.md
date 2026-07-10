@@ -362,19 +362,5 @@ pypdf
 
 **Pragati Vishwakarma**
 
-AI & Data Science Engineer
-
-Passionate about building scalable AI applications using:
-
-* Agentic AI
-* LangGraph
-* LangChain
-* MCP
-* Retrieval-Augmented Generation (RAG)
-* LLM Applications
-* Machine Learning
-* Full Stack AI Systems
-
 ---
 
-# ⭐ If you found this project useful, consider giving it a Star on GitHub!
